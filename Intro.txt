@@ -1,1 +1,3 @@
-My name is Arima Srivastava and currently I'm pursuing btech in computer science with the specialization in aiml.
+Hello ! My name is Arima Srivastava and I'm a 2nd year Btech student in the field of CSE with specialization in AI\ML.
+This is my first repository file and I'm looking to work on various projects and apply my skills in future collaborations.
+Thank you.
